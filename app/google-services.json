@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418267371635",
+    "firebase_url": "https://birthday-d8215.firebaseio.com",
+    "project_id": "birthday-d8215",
+    "storage_bucket": "birthday-d8215.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418267371635:android:a7f39a06fa78d85f397206",
+        "android_client_info": {
+          "package_name": "com.example.birthday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418267371635-6313tf2arcf3bpi2f15g9jfrcs8spfl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_OM3gLhk0o8F1NsvKiCRnkwtVM2y5dos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418267371635-6313tf2arcf3bpi2f15g9jfrcs8spfl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
